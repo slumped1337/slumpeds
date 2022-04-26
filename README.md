@@ -9,8 +9,8 @@ A web proxy for use in combating web filters.
 ## Running locally
 
 ```sh
-git clone https://github.com/titaniumnetwork-dev/alloyproxy.git
-cd alloyproxy
+git clone https://github.com/slumped1337/slumpeds proxy.git
+cd slumps
 node server.js
 ```
 
